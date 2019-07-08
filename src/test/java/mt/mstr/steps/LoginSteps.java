@@ -31,6 +31,7 @@ public class LoginSteps
 		     }
 	         else
 	         {
+			 
 	        	 System.setProperty("webdriver.gecko.driver","E:\\soft\\geckodriver.exe");
 	        	 Config.driver=new InternetExplorerDriver();
 				System.out.println("IE Browser open SucessFully");	
@@ -110,7 +111,8 @@ public class LoginSteps
    		if(act_flag3==true)
    		{
    			System.out.println("User is on Sign on page");
-   			System.out.println("Git hub changes into eclipse loginSteps");
+   		
+			System.out.println("Git hub changes to eclipse in LoginSteps");
    		}
    	}
    	
