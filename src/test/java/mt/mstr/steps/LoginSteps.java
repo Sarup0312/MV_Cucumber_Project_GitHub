@@ -110,7 +110,7 @@ public class LoginSteps
    		if(act_flag3==true)
    		{
    			System.out.println("User is on Sign on page");
-   			System.out.println("User is on Sign on page.........");
+   			System.out.println("Git hub changes into eclipse loginSteps");
    		}
    	}
    	
